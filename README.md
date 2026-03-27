@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a undergraduate (CSE-AIML) Student
+B.Tech Computer Science in Artificial Intelligence and Machine Learning<br>
 
 
 ## 🌐 Socials:
